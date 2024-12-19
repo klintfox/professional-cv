@@ -139,4 +139,324 @@
 
 
 # Technologies used by company
+<table style="width: 50%; font-size: 10px; border-collapse: collapse; text-align: center;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th></th>
+      <th>Empresa</th>
+      <th>LEGALL SAC</th>
+      <th>CERTICOM COSAPI DATA</th>
+      <th>MINISTERIO DE SALUD DEL PERÚ</th>
+      <th>BID / ACCEDE / MINISTERIO DE JUSTICIA</th>
+      <th>INDRA</th>
+      <th>NEXOS SOFTWARE</th>
+      <th>IMAGEMAKER</th>
+      <th>CONEXIA</th>
+      <th>BNP CARDIF COLOMBIA</th>
+      <th>Total</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Tecnología / Habilidad</b></td>
+      <td><b>Categoría</b></td>
+      <td>28</td>
+      <td>20</td>
+      <td>9</td>
+      <td>21</td>
+      <td>25</td>
+      <td>27</td>
+      <td>21</td>
+      <td>23</td>
+      <td>17</td>
+      <td><b>Cantidad</b></td>
+    </tr>
+    <tr>
+      <td>Líder Técnico</td>
+      <td>Habilidad Blanda</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>x</td>
+      <td>x</td>
+      <td></td>
+      <td></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Scrum</td>
+      <td>Metodología Agile</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>x</td>
+      <td>x</td>
+      <td>x</td>
+      <td></td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>Kanban</td>
+      <td>Metodología Agile</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>x</td>
+      <td></td>
+      <td></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Xp</td>
+      <td>Metodología Agile</td>
+      <td>x</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Jira</td>
+      <td>Herramienta Tareas</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>x</td>
+      <td>x</td>
+      <td>x</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>Backend</td>
+      <td>x</td>
+      <td>x</td>
+      <td>x</td>
+      <td>x</td>
+      <td>x</td>
+      <td>x</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>Python</td>
+      <td>Backend</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>x</td>
+      <td></td>
+      <td>x</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>NodeJs</td>
+      <td>Backend</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>x</td>
+      <td></td>
+      <td></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>.Net</td>
+      <td>Backend</td>
+      <td>x</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Spring Framework</td>
+      <td>Backend</td>
+      <td>x</td>
+      <td>x</td>
+      <td>x</td>
+      <td>x</td>
+      <td>x</td>
+      <td>x</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>Spring Reactive</td>
+      <td>Backend</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>x</td>
+      <td></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Spring Devtools</td>
+      <td>Backend</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>x</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Spring Security</td>
+      <td>Backend</td>
+      <td></td>
+      <td>x</td>
+      <td></td>
+      <td>x</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Spring Mvc</td>
+      <td>Backend</td>
+      <td>x</td>
+      <td>x</td>
+      <td></td>
+      <td>x</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>SpringJpa</td>
+      <td>Backend</td>
+      <td></td>
+      <td>x</td>
+      <td></td>
+      <td>x</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>SpringBoot</td>
+      <td>Backend</td>
+      <td></td>
+      <td>x</td>
+      <td>x</td>
+      <td>x</td>
+      <td>x</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Mybatis</td>
+      <td>Backend</td>
+      <td>x</td>
+      <td></td>
+      <td></td>
+      <td>x</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>JPA</td>
+      <td>Backend</td>
+      <td>x</td>
+      <td>x</td>
+      <td></td>
+      <td>x</td>
+      <td>x</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Hibernate</td>
+      <td>Backend</td>
+      <td>x</td>
+      <td>x</td>
+      <td></td>
+      <td>x</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>JWT</td>
+      <td>Backend</td>
+      <td></td>
+      <td>x</td>
+      <td>x</td>
+      <td>x</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>RESTFul</td>
+      <td>Backend</td>
+      <td>x</td>
+      <td>x</td>
+      <td>x</td>
+      <td>x</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>Soap</td>
+      <td>Backend</td>
+      <td></td>
+      <td>x</td>
+      <td></td>
+      <td>x</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Android</td>
+      <td>Backend</td>
+      <td>x</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Mockito</td>
+      <td>Unit Test</td>
+      <td></td>
+      <td>x</td>
+      <td></td>
+      <td>x</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>JUnit</td>
+      <td>Unit Test</td>
+      <td></td>
+      <td>x</td>
+      <td></td>
+      <td>x</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Swagger</td>
+      <td>Documentación API</td>
+      <td></td>
+      <td>x</td>
+      <td>x</td>
+      <td>x</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>Compodoc</td>
+      <td>Documentación API</td>
+      <td>x</td>
+      <td></td>
+      <td></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Postman</td>
+      <td>Herramientas API</td>
+      <td>x</td>
+      <td></td>
+      <td>x</td>
+      <td>x</td>
+      <td>x</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>SoapUI</td>
+      <td>Herramientas API</td>
+      <td></td>
+      <td>x</td>
+      <td>x</td>
+      <td>2</td>
+    </tr>
+  </tbody>
+</table>
 
