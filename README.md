@@ -12,3 +12,49 @@
 | **Rol**                                      | Analista Programador Junior / Analista Programador | Analista Programador         | Consultor Desarrollo de Software | Consultor Desarrollo Software         | Analista Programador | Analista de Desarrollo | Software Developer | Java Developer Senior Advanced | Java Desenvolvedor Senior III | x     |
 
 # Technologies used by company
+<table style="width: 80%; font-size: 12px; border-collapse: collapse;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th>Empresa</th>
+      <th>LEGALL SAC</th>
+      <th>CERTICOM COSAPI DATA</th>
+      <th>MINISTERIO DE SALUD DEL PERÚ</th>
+      <th>BID / ACCEDE / MINISTERIO DE JUSTICIA</th>
+      <th>INDRA</th>
+      <th>NEXOS SOFTWARE</th>
+      <th>IMAGEMAKER</th>
+      <th>CONEXIA</th>
+      <th>BNP CARDIF COLOMBIA</th>
+      <th>Total</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Equipo / País / Cliente</b></td>
+      <td>Perú</td>
+      <td>Perú</td>
+      <td>Perú</td>
+      <td>Perú</td>
+      <td>Perú - Colombia</td>
+      <td>Colombia - Mexico</td>
+      <td>Chile</td>
+      <td>Colombia - Argentina</td>
+      <td>Colombia - Brasil - Mexico - Chile</td>
+      <td>x</td>
+    </tr>
+    <tr>
+      <td><b>Modalidad</b></td>
+      <td>Presencial</td>
+      <td>Presencial</td>
+      <td>Presencial</td>
+      <td>Presencial</td>
+      <td>Presencial - Remoto</td>
+      <td>Presencial - Remoto</td>
+      <td>Remoto</td>
+      <td>Remoto</td>
+      <td>Remoto</td>
+      <td>x</td>
+    </tr>
+    <!-- Puedes agregar más filas aquí -->
+  </tbody>
+</table>
