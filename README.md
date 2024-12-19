@@ -241,7 +241,6 @@
       <th>CONEXIA</th>
       <th>BNP CARDIF COLOMBIA</th>
       <th>Total</th>
-      <th>Categoría</th>
     </tr>
   </thead>
   <tbody>
@@ -257,7 +256,6 @@
       <td>1</td>
       <td>1</td>
       <td>9</td>
-      <td>Backend</td>
     </tr>
     <tr>
       <td>Python</td>
@@ -271,7 +269,6 @@
       <td>0</td>
       <td>1</td>
       <td>2</td>
-      <td>Backend</td>
     </tr>
     <tr>
       <td>NodeJs</td>
@@ -285,7 +282,6 @@
       <td>0</td>
       <td>0</td>
       <td>1</td>
-      <td>Backend</td>
     </tr>
     <tr>
       <td>.Net</td>
@@ -299,7 +295,6 @@
       <td>0</td>
       <td>0</td>
       <td>1</td>
-      <td>Backend</td>
     </tr>
     <tr>
       <td>Spring Framework</td>
@@ -313,7 +308,6 @@
       <td>0</td>
       <td>1</td>
       <td>8</td>
-      <td>Backend</td>
     </tr>
     <tr>
       <td>Spring Reactive</td>
@@ -327,7 +321,6 @@
       <td>1</td>
       <td>0</td>
       <td>1</td>
-      <td>Backend</td>
     </tr>
     <tr>
       <td>Spring Devtools</td>
@@ -341,7 +334,6 @@
       <td>1</td>
       <td>0</td>
       <td>1</td>
-      <td>Backend</td>
     </tr>
     <tr>
       <td>Spring Security</td>
@@ -355,7 +347,6 @@
       <td>1</td>
       <td>0</td>
       <td>2</td>
-      <td>Backend</td>
     </tr>
     <tr>
       <td>Spring Mvc</td>
@@ -369,7 +360,6 @@
       <td>0</td>
       <td>0</td>
       <td>3</td>
-      <td>Backend</td>
     </tr>
     <tr>
       <td>SpringJpa</td>
@@ -383,7 +373,6 @@
       <td>0</td>
       <td>0</td>
       <td>1</td>
-      <td>Backend</td>
     </tr>
     <tr>
       <td>SpringBoot</td>
@@ -397,7 +386,6 @@
       <td>1</td>
       <td>1</td>
       <td>5</td>
-      <td>Backend</td>
     </tr>
     <tr>
       <td>Mybatis</td>
@@ -411,7 +399,6 @@
       <td>0</td>
       <td>0</td>
       <td>1</td>
-      <td>Backend</td>
     </tr>
     <tr>
       <td>JPA</td>
@@ -425,7 +412,6 @@
       <td>1</td>
       <td>0</td>
       <td>5</td>
-      <td>Backend</td>
     </tr>
     <tr>
       <td>Hibernate</td>
@@ -439,7 +425,6 @@
       <td>0</td>
       <td>0</td>
       <td>4</td>
-      <td>Backend</td>
     </tr>
     <tr>
       <td>JWT</td>
@@ -453,7 +438,6 @@
       <td>1</td>
       <td>0</td>
       <td>3</td>
-      <td>Backend</td>
     </tr>
     <tr>
       <td>RESTFul</td>
@@ -467,7 +451,6 @@
       <td>0</td>
       <td>0</td>
       <td>4</td>
-      <td>Backend</td>
     </tr>
     <tr>
       <td>Soap</td>
@@ -481,7 +464,6 @@
       <td>0</td>
       <td>0</td>
       <td>1</td>
-      <td>Backend</td>
     </tr>
     <tr>
       <td>Android</td>
@@ -495,7 +477,6 @@
       <td>0</td>
       <td>0</td>
       <td>1</td>
-      <td>Backend</td>
     </tr>
     <tr>
       <td>Mockito</td>
@@ -508,7 +489,6 @@
       <td>1</td>
       <td>1</td>
       <td>2</td>
-      <td>Unit Test</td>
     </tr>
     <tr>
       <td>JUnit</td>
@@ -521,7 +501,6 @@
       <td>1</td>
       <td>1</td>
       <td>2</td>
-      <td>Unit Test</td>
     </tr>
     <tr>
       <td>Swagger</td>
@@ -534,7 +513,6 @@
       <td>1</td>
       <td>0</td>
       <td>3</td>
-      <td>Documentación API</td>
     </tr>
     <tr>
       <td>Compodoc</td>
@@ -547,7 +525,6 @@
       <td>0</td>
       <td>0</td>
       <td>1</td>
-      <td>Documentación API</td>
     </tr>
     <tr>
       <td>Postman</td>
@@ -561,7 +538,6 @@
       <td>0</td>
       <td>1</td>
       <td>5</td>
-      <td>Herramientas API</td>
     </tr>
     <tr>
       <td>SoapUI</td>
@@ -570,9 +546,112 @@
       <td>0</td>
       <td>0</td>
       <td>0</td>
-      <td>1
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>2</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## Frontend
+<table style="width: 50%; font-size: 10px; border-collapse: collapse; text-align: center;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th>Empresa</th>
+      <th>LEGALL SAC</th>
+      <th>CERTICOM COSAPI DATA</th>
+      <th>MINISTERIO DE SALUD DEL PERÚ</th>
+      <th>BID / ACCEDE / MINISTERIO DE JUSTICIA</th>
+      <th>INDRA</th>
+      <th>NEXOS SOFTWARE</th>
+      <th>IMAGEMAKER</th>
+      <th>CONEXIA</th>
+      <th>BNP CARDIF COLOMBIA</th>
+      <th>Total</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>RichFaces</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Primefaces</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>Jsf</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>Javascript</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>TypeScript</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Angular</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>3</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Databases 
 
