@@ -1,18 +1,6 @@
 # Experience by company
-| Empresa                                      | LEGALL SAC                          | CERTICOM COSAPI DATA          | MINISTERIO DE SALUD DEL PERÚ | BID / ACCEDE / MINISTERIO DE JUSTICIA | INDRA             | NEXOS SOFTWARE    | IMAGEMAKER    | CONEXIA       | BNP CARDIF COLOMBIA | Total |
-|----------------------------------------------|-------------------------------------|------------------------------|-----------------------------|---------------------------------------|-------------------|-------------------|---------------|---------------|----------------------|-------|
-| **Equipo / País / Cliente**                  | Perú                                | Perú                         | Perú                        | Perú                                  | Perú - Colombia   | Colombia - Mexico | Chile         | Colombia - Argentina | Colombia - Brasil - Mexico - Chile | x     |
-| **Modalidad**                                | Presencial                          | Presencial                   | Presencial                  | Presencial                            | Presencial - Remoto | Presencial - Remoto | Remoto        | Remoto        | Remoto               | x     |
-| **Tiempo Años**                              | 2.53                                | 1.01                         | 0.32                        | 0.68                                  | 1.05              | 0.54              | 0.51          | 0.40          | 1.72                 | 8.77  |
-| **Tiempo Meses**                             | 30.37                               | 12.17                        | 3.80                        | 8.17                                  | 12.63             | 6.53              | 6.13          | 4.83          | 20.63                | 105.27|
-| **Tiempo Días**                              | 911                                 | 365                          | 114                         | 245                                   | 379               | 196               | 184           | 145           | 619                  | 3158  |
-| **Tipo Empresa**                             | Empresa                             | Empresa de Consultoría y Tecnología | Ministerio                  | Organización Financiera / Unidad Ejecutora / Ministerio | Empresa Global de Consultoría y Tecnología | Software Factory  | Consultora de Tecnología | Compañía de Software | Compañía de Seguros | x     |
-| **Sector del Proyecto y/o Empresa**         | Servicio Operativo para Compañias de Seguros | Sistema Nacional Pensiones   | Sector Salud                | Sector Justicia                       | Sector Energético | Sector Telecomunicaciones | Sector Financiero | Sector Salud   | Sector Bancario Financiero | x     |
-| **Cliente**                                  | Áreas Internas de Legall Sac        | Oficina de Normalización Previsional del Perú - ONP | Ministerio de Salud del Perú | Banco Interamericano de desarrollo / Unidad Ejecutora del Ministerio de Justicia del Perú | Enel Perú y Enel Colombia | Claro Colombia    | Banco Santander Chile | CONEXIA       | Áreas Internas de BNP CARDIF en diferentes países | x     |
-| **Rol**                                      | Analista Programador Junior / Analista Programador | Analista Programador         | Consultor Desarrollo de Software | Consultor Desarrollo Software         | Analista Programador | Analista de Desarrollo | Software Developer | Java Developer Senior Advanced | Java Desenvolvedor Senior III | x     |
 
-# Technologies used by company
-<table style="width: 80%; font-size: 12px; border-collapse: collapse;">
+<table style="width: 40%; font-size: 10px; border-collapse: collapse;">
   <thead>
     <tr style="background-color: #f2f2f2;">
       <th>Empresa</th>
@@ -55,6 +43,100 @@
       <td>Remoto</td>
       <td>x</td>
     </tr>
-    <!-- Puedes agregar más filas aquí -->
+    <tr>
+      <td><b>Tiempo Años</b></td>
+      <td>2.53</td>
+      <td>1.01</td>
+      <td>0.32</td>
+      <td>0.68</td>
+      <td>1.05</td>
+      <td>0.54</td>
+      <td>0.51</td>
+      <td>0.40</td>
+      <td>1.72</td>
+      <td>8.77</td>
+    </tr>
+    <tr>
+      <td><b>Tiempo Meses</b></td>
+      <td>30.37</td>
+      <td>12.17</td>
+      <td>3.80</td>
+      <td>8.17</td>
+      <td>12.63</td>
+      <td>6.53</td>
+      <td>6.13</td>
+      <td>4.83</td>
+      <td>20.63</td>
+      <td>105.27</td>
+    </tr>
+    <tr>
+      <td><b>Tiempo Días</b></td>
+      <td>911</td>
+      <td>365</td>
+      <td>114</td>
+      <td>245</td>
+      <td>379</td>
+      <td>196</td>
+      <td>184</td>
+      <td>145</td>
+      <td>619</td>
+      <td>3158</td>
+    </tr>
+    <tr>
+      <td><b>Tipo Empresa</b></td>
+      <td>Empresa</td>
+      <td>Empresa de Consultoría y Tecnología</td>
+      <td>Ministerio</td>
+      <td>Organización Financiera / Unidad Ejecutora / Ministerio</td>
+      <td>Empresa Global de Consultoría y Tecnología</td>
+      <td>Software Factory</td>
+      <td>Consultora de Tecnología</td>
+      <td>Compañía de Software</td>
+      <td>Compañía de Seguros</td>
+      <td>x</td>
+    </tr>
+    <tr>
+      <td><b>Sector del Proyecto y/o Empresa</b></td>
+      <td>Servicio Operativo para Compañías de Seguros</td>
+      <td>Sistema Nacional Pensiones</td>
+      <td>Sector Salud</td>
+      <td>Sector Justicia</td>
+      <td>Sector Energético</td>
+      <td>Sector Telecomunicaciones</td>
+      <td>Sector Financiero</td>
+      <td>Sector Salud</td>
+      <td>Sector Bancario Financiero</td>
+      <td>x</td>
+    </tr>
+    <tr>
+      <td><b>Cliente</b></td>
+      <td>Áreas Internas de Legall Sac</td>
+      <td>Oficina de Normalización Previsional del Perú - ONP</td>
+      <td>Ministerio de Salud del Perú</td>
+      <td>Banco Interamericano de Desarrollo / Unidad Ejecutora del Ministerio de Justicia del Perú</td>
+      <td>Enel Perú y Enel Colombia</td>
+      <td>Claro Colombia</td>
+      <td>Banco Santander Chile</td>
+      <td>CONEXIA</td>
+      <td>Áreas Internas de BNP CARDIF en diferentes países</td>
+      <td>x</td>
+    </tr>
+    <tr>
+      <td><b>Rol</b></td>
+      <td>Analista Programador Junior / Analista Programador</td>
+      <td>Analista Programador</td>
+      <td>Consultor Desarrollo de Software</td>
+      <td>Consultor Desarrollo Software</td>
+      <td>Analista Programador</td>
+      <td>Analista de Desarrollo</td>
+      <td>Software Developer</td>
+      <td>Java Developer Senior Advanced</td>
+      <td>Java Desenvolvedor Senior III</td>
+      <td>x</td>
+    </tr>
   </tbody>
 </table>
+
+
+# Technologies used by company
+
