@@ -4,7 +4,7 @@ I’m a Software Developer with almost 9 years of experience in the analysis, de
 
 Throughout my career, I’ve collaborated with distributed teams in Peru, Colombia, Chile, Argentina, Mexico, and Brazil, which has helped me develop strong skills in multicultural environments and adapting to dynamic work processes.
 
-I’ve contributed to agile teams using Scrum to deliver scalable solutions, and I’ve also led a team of young developers, guiding them through their professional growth. My experience includes developing microservices with Spring Boot and managing various versions of Java. Additionally, I possess experience in DevOps, Scrum, and Cloud (AWS and Azure).
+I’ve contributed to agile teams using Scrum to deliver scalable solutions, and I’ve also led a team of young developers, guiding them through their professional growth. My experience includes developing microservices with Spring Boot and managing various versions of Java. Additionally, I possess solid expertise in DevOps, Scrum, and Cloud (AWS and Azure).
 
 My technical background includes working with Python, Node.js, and managing both relational (MSSQL, OracleSQL, MySQL, PostgreSQL) and non-relational databases (MongoDB, Elasticsearch), as well as in-memory solutions like Redis.
 
