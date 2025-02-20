@@ -1,15 +1,14 @@
 # Resume Description
 
-I’m a Software Developer with almost 9 years of experience working in the analysis, development, maintenance, and continuous improvement of technological solutions, across sectors includes insurance, finance, healthcare, energy, and telecommunications.
+I’m a Software Developer with almost 9 years of experience in the analysis, development, and continuous improvement of technological solutions across diverse sectors, including insurance, finance, healthcare, energy, and telecommunications.
 
-I have had the opportunity to collaborate, both in-person and remotely, with teams distributed across Peru, Colombia, Chile, Argentina, Mexico, and Brazil, which has allowed me to develop strong skills in working in multicultural environments and adapting to diverse work dynamics and processes.
+Throughout my career, I’ve collaborated with distributed teams in Peru, Colombia, Chile, Argentina, Mexico, and Brazil, which has helped me develop strong skills in multicultural environments and adapting to dynamic work processes.
 
-I have been part of agile teams using Scrum to implement robust and scalable solutions, always focused on delivering continuous and efficient value. Additionally, I have led young developers for a year, guiding them in their professional growth. My experience includes microservices development with Spring Boot and managing multiple versions of Java. I also have solid knowledge of DevOps, Scrum, and Cloud  like AWS and Azure. 
-Also, I have some professional experience working with Python and Node.js, as well as managing relational databases like Microsoft SQL, Oracle SQL, MySQL and PostgreSQL and non-relational databases like MongoDB and Elasticsearch
- 
-Finally, I highlight my focus on microservices development, their proper documentation, and the efficient integration of libraries and technological products with Java, which allows me to deliver fast and scalable solutions, optimizing processes and improving software quality. I maintain a constant curiosity and passion for learning, always striving to improve my skills and stay up-to-date with the latest technological trends.
+I’ve contributed to agile teams using Scrum to deliver scalable solutions, and I’ve also led a team of young developers, guiding them through their professional growth. My experience includes developing microservices with Spring Boot and managing various versions of Java. Additionally, I possess experience in DevOps, Scrum, and Cloud (AWS and Azure).
 
+My technical background includes working with Python, Node.js, and managing both relational (MSSQL, OracleSQL, MySQL, PostgreSQL) and non-relational databases (MongoDB, Elasticsearch), as well as in-memory solutions like Redis.
 
+I am particularly passionate about microservices development, focusing on fast, scalable solutions, efficient documentation, and seamless integration with Java. I am always curious and committed to staying up-to-date with the latest technological advancements to improve my skills and contribute to the success of my teams.
 ## Companies Experiences
 
 | **Company**                               | LEGALL SAC | CERTICOM COSAPI DATA | MINISTRY OF HEALTH OF PERU | BID / ACCEDE / MINISTRY OF JUSTICE | INDRA | NEXOS SOFTWARE | IMAGEMAKER | CONEXIA | BNP CARDIF COLOMBIA |
