@@ -1,4 +1,4 @@
-# Resume
+# Resume Description
 
 I’m a Software Developer with almost 9 years of experience working in the analysis, development, maintenance, and continuous improvement of technological solutions, across sectors includes insurance, finance, healthcare, energy, and telecommunications.
 
@@ -24,4 +24,70 @@ Finally, I highlight my focus on microservices development, their proper documen
 | **Role**                                  | Junior Programmer Analyst / Programmer Analyst | Programmer Analyst | Software Development Consultant | Software Development Consultant | Programmer Analyst | Development Analyst | Software Developer | Senior Advanced Java Developer | Senior Java Developer III |
 
 
-# Technical Skill by Company
+# Technical Stack
+
+| **Description**            | **Soft Skill Type**  | 28 | 20 | 9  | 21 | 25 | 27 | 21 | 23 | 17 | **Quantity** |
+|----------------------------|----------------------|----|----|----|----|----|----|----|----|----|--------------|
+| **Technical Lead**          | Soft Skill           |    |    |    |    | x  | x  |    |    |    | 2            |
+| **Scrum**                   | Agile Methodology    |    |    | x  | x  | x  | x  |    |    |    | 4            |
+| **Kanban**                  | Agile Methodology    |    | x  |    |    |    |    |    |    |    | 1            |
+| **Xp**                      | Agile Methodology    | x  |    |    |    |    |    |    |    |    | 1            |
+| **Jira**                    | Task Management Tool |    |    |    |    | x  | x  | x  |    |    | 3            |
+| **Java**                    | Backend              | x  | x  | x  | x  | x  | x  | x  | x  | x  | 9            |
+| **Python**                  | Backend              |    |    | x  |    | x  |    |    |    |    | 2            |
+| **NodeJs**                  | Backend              |    | x  |    |    |    |    |    |    |    | 1            |
+| **.Net**                    | Backend              | x  |    |    |    |    |    |    |    |    | 1            |
+| **Spring Framework**        | Backend              | x  | x  | x  | x  | x  | x  | x  |    | x  | 8            |
+| **Spring Reactive**         | Backend              |    |    |    |    | x  |    |    |    |    | 1            |
+| **Spring Devtools**         | Backend              |    |    |    | x  |    |    |    |    |    | 1            |
+| **Spring Security**         | Backend              |    |    | x  |    |    | x  |    |    |    | 2            |
+| **Spring MVC**              | Backend              | x  | x  |    | x  |    |    |    |    |    | 3            |
+| **Spring JPA**              | Backend              |    | x  |    | x  |    |    |    |    |    | 1            |
+| **Spring Boot**             | Backend              |    |    | x  | x  | x  | x  |    |    |    | 5            |
+| **MyBatis**                 | Backend              | x  |    |    |    |    |    |    |    |    | 1            |
+| **JPA**                     | Backend              | x  | x  |    | x  |    | x  |    |    |    | 5            |
+| **Hibernate**               | Backend              | x  | x  |    | x  |    |    |    |    |    | 4            |
+| **JWT**                     | Backend              |    |    | x  |    | x  |    |    |    |    | 3            |
+| **RESTful**                 | Backend              | x  | x  | x  |    | x  |    |    |    |    | 4            |
+| **SOAP**                    | Backend              |    |    |    | x  |    |    |    |    |    | 1            |
+| **Android**                 | Backend              | x  |    |    |    |    |    |    |    |    | 1            |
+| **Mockito**                 | Unit Testing         |    |    | x  | x  |    |    |    |    |    | 2            |
+| **JUnit**                   | Unit Testing         |    |    | x  | x  |    |    |    |    |    | 2            |
+| **Swagger**                 | API Documentation    |    |    | x  | x  | x  |    |    |    |    | 3            |
+| **Compodoc**                | API Documentation    |    |    | x  |    |    |    |    |    |    | 1            |
+| **Postman**                 | API Tools            | x  |    | x  | x  |    | x  |    |    | x  | 5            |
+| **SoapUI**                  | API Tools            |    | x  | x  |    |    |    |    |    |    | 2            |
+| **RichFaces**               | Frontend             | x  |    |    |    |    |    |    |    |    | 1            |
+| **PrimeFaces**              | Frontend             | x  | x  | x  | x  |    |    |    |    |    | 4            |
+| **JSF**                     | Frontend             | x  | x  | x  | x  |    |    |    |    |    | 4            |
+| **JavaScript**              | Frontend             |    | x  | x  | x  |    |    |    |    |    | 3            |
+| **TypeScript**              | Frontend             |    |    | x  |    |    |    |    |    |    | 1            |
+| **Angular**                 | Frontend             |    |    | x  | x  |    | x  |    |    |    | 3            |
+| **SQL Server**              | Database             | x  | x  | x  |    |    |    |    |    |    | 3            |
+| **MySQL**                   | Database             | x  | x  | x  |    | x  |    |    |    |    | 4            |
+| **PostgreSQL**              | Database             |    | x  | x  | x  |    |    |    |    |    | 3            |
+| **Oracle**                  | Database             |    | x  |    |    | x  | x  |    |    |    | 4            |
+| **Sybase**                  | Database             |    |    | x  |    |    |    |    |    |    | 1            |
+| **MongoDB**                 | Database             |    |    |    | x  |    |    |    |    |    | 1            |
+| **Elastic Search**          | Database             |    |    |    | x  |    |    |    |    |    | 1            |
+| **RabbitMQ**                | Messaging            |    |    |    | x  |    |    |    |    |    | 1            |
+| **Nats Streaming**          | Messaging            |    |    |    | x  |    |    |    |    |    | 1            |
+| **Apache Flume**            | Data Ingestion       |    |    |    | x  |    |    |    |    |    | 1            |
+| **Avro**                    | Serialization System |    |    |    | x  |    |    |    |    |    | 1            |
+| **Docker**                  | DevOps               |    |    |    | x  |    |    |    |    |    | 1            |
+| **Jenkins**                 | DevOps               |    |    |    |    | x  | x  | x  |    |    | 3            |
+| **SonarQube**               | DevOps               |    | x  |    | x  |    |    |    |    |    | 2            |
+| **OpenShift**               | DevOps               |    |    |    | x  |    |    |    |    |    | 1            |
+| **Azure DevOps**            | Cloud                |    |    |    | x  |    |    |    |    |    | 1            |
+| **AWS Cognito**             | Cloud                |    |    |    |    | x  | x  |    |    |    | 2            |
+| **Amazon SQS**             | Cloud                |    |    |    |    | x  | x  |    |    |    | 2            |
+| **Amazon S3**              | Cloud                |    |    |    |    | x  | x  |    |    |    | 2            |
+| **Git**                     | Version Control      | x  | x  | x  | x  | x  | x  | x  | x  | x  | 9            |
+| **Bitbucket**               | Version Control      |    | x  |    |    | x  |    | x  |    |    | 3            |
+| **GitLab**                  | Version Control      |    |    |    | x  |    |    |    |    |    | 1            |
+| **Liquibase**               | Database Versioning  |    |    |    |    |    | x  |    |    |    | 1            |
+| **Maven**                   | Dependency Management| x  | x  | x  | x  | x  | x  | x  | x  | x  | 9            |
+| **Kibana**                  | Data Visualization   |    |    |    | x  |    |    |    |    |    | 1            |
+| **JBoss**                   | Application Server   | x  | x  |    |    |    |    |    |    |    | 2            |
+| **Tomcat**                  | Application Server   | x  | x  | x  | x  |    |    |    |    |    | 
+
