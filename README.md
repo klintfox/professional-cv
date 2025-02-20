@@ -26,7 +26,7 @@ Finally, I highlight my focus on microservices development, their proper documen
 
 # Technical Stack
 
-| **     -    **              | **Company**          | **LEGALL SAC** | **CERTICOM COSAPI DATA** | **MINISTRY OF HEALTH OF PERU** | **BID / ACCEDE / MINISTRY OF JUSTICE** | **INDRA** | **NEXOS SOFTWARE** | **IMAGEMAKER** | **CONEXIA** | **BNP CARDIF COLOMBIA** | **Total** |
+|      **-**                  | **Company**          | **LEGALL SAC** | **CERTICOM COSAPI DATA** | **MINISTRY OF HEALTH OF PERU** | **BID / ACCEDE / MINISTRY OF JUSTICE** | **INDRA** | **NEXOS SOFTWARE** | **IMAGEMAKER** | **CONEXIA** | **BNP CARDIF COLOMBIA** | **Total** |
 |-----------------------------|-----------------------|----------------|--------------------------|---------------------------------|----------------------------------------|-----------|---------------------|----------------|-------------|--------------------------|-----------|
 | **Description**              | **Skill Type**        | 28             | 20                       | 9                               | 21                                     | 25        | 27                  | 21             | 23          | 17                       | **Quantity** |
 | **Technical Lead**           | Soft Skill            |                |                          |                                 | x                                      | x         |                     |                |             |                          | 2         |
